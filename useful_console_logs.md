@@ -1,5 +1,7 @@
 # A List of Very Useful Console Logs
 
+
+
 A simple function which maps over an array and counts the instances, which are saved to the object `counts`
 
 ```javascript
